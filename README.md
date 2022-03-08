@@ -302,6 +302,6 @@ Trabajo futuro:
 
 ## Autores
 
-* **Ramón Costales de Ledesma** - [Rymond3](https://github.com/Rymond3)
-* **Jose Ignacio Daguerre Garrido** - [joseignaciodg](https://github.com/joseignaciodg)
-* **Daniel Puente Arribas** - [dapuente13](https://github.com/dapuente13)
+* [Rymond3](https://github.com/Rymond3)
+* [joseignaciodg](https://github.com/joseignaciodg)
+* [dapuente13](https://github.com/dapuente13)
