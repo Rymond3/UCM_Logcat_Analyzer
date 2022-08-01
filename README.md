@@ -302,6 +302,6 @@ Trabajo futuro:
 
 ## Autores
 
-* [Rymond3](https://github.com/Rymond3)
+* [dRaco](https://github.com/d-Raco)
 * [joseignaciodg](https://github.com/joseignaciodg)
 * [dapuente13](https://github.com/dapuente13)
